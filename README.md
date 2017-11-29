@@ -30,3 +30,7 @@ mode Display
 - Death and Revival System
 - Top Down View
 - 2 DAC’s (TLC7524) & Op Amp (741) pair
+
+
+#To Run
+I ran the program using AtmelStudio 7, and just running the 'main' file is sufficient. 
